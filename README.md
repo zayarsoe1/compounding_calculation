@@ -24,7 +24,7 @@ The example use case scenario of the compound interest will be -- staring with $
 
 ### Executing program
 
-* Run python3 stock.py
+* Run python3 compound_calculation.py
 
 
 ## Authors
